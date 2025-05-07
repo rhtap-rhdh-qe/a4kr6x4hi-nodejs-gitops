@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: a4kr6x4hi-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/a4kr6x4hi-nodejs
